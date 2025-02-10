@@ -31,3 +31,9 @@
    Выполните команду:
    ```bash
    pip install PyQt6
+
+3. **Копирование репозитория:**  
+   Выполните команду:
+   ```bash
+   git clone https://github.com/terry1906/BookWarden
+   
